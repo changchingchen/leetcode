@@ -1,3 +1,6 @@
+# Time Complexity: O(MN)
+# Space : O(M+N)
+
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
         """
